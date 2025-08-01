@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "i18next": "^25.3.2",
+    "react-i18next": "^15.6.0",
+    "web-vitals": "^5.0.3"
+  }
+}
