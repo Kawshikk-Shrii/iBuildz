@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # iBuild Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawshikk-Shrii/iBuildz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kawshikk-Shrii/iBuildz/issues"
+  },
+  "homepage": "https://github.com/Kawshikk-Shrii/iBuildz#readme",
+  "dependencies": {
+    "@prisma/client": "^6.13.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0",
+    "prisma": "^6.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
